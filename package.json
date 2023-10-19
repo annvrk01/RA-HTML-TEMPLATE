@@ -1,0 +1,12 @@
+{
+  "name": "example-project",
+  "version": "1.0.0",
+  "description": "Create a project to guide students RA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
